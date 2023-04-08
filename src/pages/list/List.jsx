@@ -77,11 +77,6 @@ const [options, setOptions] = useState(location.state.options);
                     <SearchItem />
                     <SearchItem />
                     <SearchItem />
-                    <SearchItem />
-                    <SearchItem />
-                    <SearchItem />
-                    <SearchItem />
-                    <SearchItem />
                 </div>
 
             </div>
